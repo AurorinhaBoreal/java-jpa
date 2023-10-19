@@ -10,3 +10,7 @@ After the class I saw a little more about, and with the help of a Spring JPA Tut
 
 # Project 2 18/10 | EntityManager in H2
 Today we used the principles learned in the last project to go a little further in the Spring Data JPA. We also inserted users to the H2 Database, but this time used a component named EntityManager, it helped us to created our own CRUD operations. We inserted, fetched, altered and removed users through the EntityManager and CommandLineRunner.
+
+# Project 3 19/10 | Relating Tables in H2
+The project I made today was focused on create a relational database for a book store, we saw about the components responsible for relating tables, cardinality and more about the principles and basic components available in JPA.
+We renamed tables and created differente methods to use while the project was executed.
